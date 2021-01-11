@@ -1,0 +1,15 @@
+.todo-list{
+    text-align: center;
+    background-color:#8093FF;
+    margin-top: 3px !important;
+}
+
+.modal-input{
+    background-color: #fff;
+    border: 1px solid #8093FF;
+    height: 30px;
+}
+
+.title{
+    color: #F7C07C;
+}

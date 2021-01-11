@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.app-title{
+  color:  #F7C07C;
+}
+
+.form-flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-input{
+  margin-bottom: 15px !important;
+  margin-right: 5px !important;
+  }
+
+  .height{
+    min-height: 100vh;
+    width: 100%;
+  }

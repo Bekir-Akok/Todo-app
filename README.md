@@ -1,3 +1,6 @@
+# https://todo-app-cp-def50.web.app/
+Firebase ile yapılmış To Do uygulaması gerçek zamanlı veritabanı tutar.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
